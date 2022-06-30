@@ -1,4 +1,4 @@
-pico-8 cartridge // http://www.pico-8.com
+pico-8 cartridge // http://www.pico-8.com//
 version 35
 __lua__
 -- main
